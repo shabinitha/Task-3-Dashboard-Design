@@ -1,0 +1,201 @@
+Invoice ID,Order Date,City,Region,Product,Category,Sales,Discount (%),Discount Amount,Total Amount,Cost,Profit
+INV1000,2024-05-29,New York,East,Monitor,Accessories,713.62,0.2,142.72,570.9,358.96,211.94
+INV1001,2023-08-18,Los Angeles,West,Keyboard,Accessories,1610.85,0.05,80.54,1530.31,950.62,579.69
+INV1002,2024-12-31,Philadelphia,East,Tablet,Accessories,614.58,0.1,61.46,553.12,397.11,156.01
+INV1003,2025-06-13,Philadelphia,East,Keyboard,Office Supplies,934.05,0.2,186.81,747.24,649.28,97.96
+INV1004,2023-11-28,Chicago,Midwest,Keyboard,Office Supplies,249.07,0.0,0.0,249.07,209.3,39.77
+INV1005,2024-02-10,San Antonio,South,Mobile,Electronics,148.17,0.05,7.41,140.76,79.29,61.47
+INV1006,2024-03-21,Houston,South,Tablet,Electronics,1929.03,0.05,96.45,1832.58,1586.33,246.25
+INV1007,2024-06-12,New York,East,Tablet,Office Supplies,1688.36,0.05,84.42,1603.94,881.77,722.17
+INV1008,2023-11-13,San Diego,West,Tablet,Accessories,1422.35,0.1,142.23,1280.12,1190.4,89.72
+INV1009,2023-10-01,Phoenix,West,Keyboard,Electronics,877.01,0.2,175.4,701.61,456.62,244.99
+INV1010,2025-04-21,San Antonio,South,Monitor,Office Supplies,429.26,0.2,85.85,343.41,217.76,125.65
+INV1011,2025-06-01,San Antonio,South,Tablet,Office Supplies,397.23,0.0,0.0,397.23,309.36,87.87
+INV1012,2024-09-16,Chicago,Midwest,Keyboard,Office Supplies,575.46,0.0,0.0,575.46,517.28,58.18
+INV1013,2023-10-15,San Diego,West,Mobile,Accessories,1143.53,0.05,57.18,1086.35,981.89,104.46
+INV1014,2024-06-14,Los Angeles,West,Monitor,Office Supplies,1457.73,0.0,0.0,1457.73,1064.73,393.0
+INV1015,2024-05-22,Los Angeles,West,Mobile,Office Supplies,1354.38,0.1,135.44,1218.94,1174.19,44.75
+INV1016,2025-02-05,Chicago,Midwest,Monitor,Office Supplies,631.87,0.2,126.37,505.5,317.27,188.23
+INV1017,2024-01-02,Philadelphia,East,Keyboard,Office Supplies,1914.24,0.05,95.71,1818.53,1703.73,114.8
+INV1018,2024-11-16,Los Angeles,West,Laptop,Electronics,1502.0,0.0,0.0,1502.0,1045.84,456.16
+INV1019,2024-04-07,Houston,South,Monitor,Electronics,1153.27,0.1,115.33,1037.94,910.11,127.83
+INV1020,2024-12-10,New York,East,Mobile,Office Supplies,1262.27,0.1,126.23,1136.04,1045.59,90.45
+INV1021,2024-12-26,San Antonio,South,Keyboard,Accessories,897.24,0.0,0.0,897.24,706.47,190.77
+INV1022,2024-08-06,San Antonio,South,Monitor,Electronics,570.69,0.2,114.14,456.55,407.48,49.07
+INV1023,2024-12-01,Houston,South,Laptop,Office Supplies,776.35,0.0,0.0,776.35,536.18,240.17
+INV1024,2024-02-24,San Diego,West,Laptop,Electronics,1539.91,0.05,77.0,1462.91,1286.49,176.42
+INV1025,2024-01-08,Los Angeles,West,Tablet,Electronics,127.35,0.0,0.0,127.35,74.12,53.23
+INV1026,2024-10-30,San Antonio,South,Tablet,Accessories,320.54,0.1,32.05,288.49,284.38,4.11
+INV1027,2024-12-20,Phoenix,West,Mobile,Office Supplies,187.41,0.0,0.0,187.41,147.0,40.41
+INV1028,2023-10-19,San Diego,West,Monitor,Office Supplies,177.38,0.2,35.48,141.9,102.85,39.05
+INV1029,2025-07-20,New York,East,Monitor,Accessories,1725.38,0.15,258.81,1466.57,1370.81,95.76
+INV1030,2024-05-29,New York,East,Tablet,Accessories,1436.95,0.0,0.0,1436.95,1023.02,413.93
+INV1031,2023-08-24,San Antonio,South,Monitor,Office Supplies,1000.93,0.2,200.19,800.74,783.62,17.12
+INV1032,2025-05-09,Chicago,Midwest,Monitor,Office Supplies,285.88,0.2,57.18,228.7,230.74,-2.04
+INV1033,2024-03-11,San Diego,West,Laptop,Accessories,1034.07,0.1,103.41,930.66,553.14,377.52
+INV1034,2023-10-07,San Antonio,South,Tablet,Electronics,999.6,0.2,199.92,799.68,702.16,97.52
+INV1035,2025-04-14,Chicago,Midwest,Keyboard,Electronics,429.08,0.2,85.82,343.26,374.5,-31.24
+INV1036,2023-09-18,San Antonio,South,Tablet,Accessories,924.32,0.2,184.86,739.46,580.71,158.75
+INV1037,2023-09-01,Phoenix,West,Keyboard,Electronics,857.16,0.2,171.43,685.73,632.2,53.53
+INV1038,2023-09-15,San Diego,West,Laptop,Accessories,1270.12,0.05,63.51,1206.61,822.65,383.96
+INV1039,2023-12-16,Philadelphia,East,Mobile,Electronics,1306.68,0.05,65.33,1241.35,890.77,350.58
+INV1040,2024-12-17,New York,East,Monitor,Electronics,186.08,0.1,18.61,167.47,133.87,33.6
+INV1041,2024-03-23,San Antonio,South,Laptop,Office Supplies,811.76,0.0,0.0,811.76,584.12,227.64
+INV1042,2023-11-23,Phoenix,West,Monitor,Office Supplies,1289.13,0.2,257.83,1031.3,748.59,282.71
+INV1043,2024-01-26,Chicago,Midwest,Mobile,Electronics,1055.96,0.0,0.0,1055.96,817.13,238.83
+INV1044,2024-10-15,Chicago,Midwest,Mobile,Electronics,1727.33,0.0,0.0,1727.33,924.38,802.95
+INV1045,2024-11-27,New York,East,Laptop,Office Supplies,1351.52,0.1,135.15,1216.37,750.81,465.56
+INV1046,2023-11-17,Houston,South,Mobile,Office Supplies,409.58,0.2,81.92,327.66,205.23,122.43
+INV1047,2025-01-12,San Antonio,South,Keyboard,Office Supplies,234.08,0.2,46.82,187.26,127.97,59.29
+INV1048,2024-05-08,San Diego,West,Mobile,Accessories,1320.6,0.15,198.09,1122.51,910.25,212.26
+INV1049,2025-04-11,Los Angeles,West,Monitor,Electronics,150.37,0.0,0.0,150.37,111.64,38.73
+INV1050,2023-09-20,Chicago,Midwest,Monitor,Office Supplies,1212.97,0.0,0.0,1212.97,991.86,221.11
+INV1051,2023-08-24,San Diego,West,Monitor,Electronics,1886.44,0.05,94.32,1792.12,1023.73,768.39
+INV1052,2024-07-02,San Diego,West,Monitor,Accessories,1193.4,0.15,179.01,1014.39,1002.8,11.59
+INV1053,2025-02-26,Philadelphia,East,Keyboard,Accessories,837.52,0.05,41.88,795.64,668.67,126.97
+INV1054,2024-12-16,San Diego,West,Tablet,Office Supplies,1322.25,0.05,66.11,1256.14,877.19,378.95
+INV1055,2023-08-19,San Diego,West,Laptop,Accessories,970.68,0.05,48.53,922.15,847.57,74.58
+INV1056,2024-06-20,Philadelphia,East,Monitor,Electronics,1136.67,0.1,113.67,1023.0,1018.88,4.12
+INV1057,2025-03-21,Chicago,Midwest,Mobile,Office Supplies,1888.78,0.1,188.88,1699.9,1099.27,600.63
+INV1058,2024-03-10,San Diego,West,Monitor,Electronics,833.6,0.05,41.68,791.92,543.25,248.67
+INV1059,2024-07-11,Houston,South,Mobile,Electronics,1926.26,0.15,288.94,1637.32,1676.96,-39.64
+INV1060,2025-05-29,Houston,South,Mobile,Accessories,1820.17,0.0,0.0,1820.17,1435.46,384.71
+INV1061,2023-10-27,Phoenix,West,Monitor,Accessories,472.0,0.15,70.8,401.2,245.08,156.12
+INV1062,2025-08-03,Philadelphia,East,Keyboard,Accessories,231.79,0.2,46.36,185.43,188.35,-2.92
+INV1063,2024-12-04,Phoenix,West,Mobile,Accessories,291.48,0.1,29.15,262.33,242.27,20.06
+INV1064,2024-08-15,Philadelphia,East,Mobile,Accessories,134.62,0.0,0.0,134.62,107.72,26.9
+INV1065,2025-07-17,San Antonio,South,Monitor,Office Supplies,279.44,0.0,0.0,279.44,229.09,50.35
+INV1066,2024-02-23,San Antonio,South,Mobile,Electronics,1397.71,0.2,279.54,1118.17,1160.17,-42.0
+INV1067,2025-01-25,San Diego,West,Mobile,Electronics,235.26,0.2,47.05,188.21,135.17,53.04
+INV1068,2024-11-15,Los Angeles,West,Monitor,Electronics,706.05,0.05,35.3,670.75,419.59,251.16
+INV1069,2023-11-04,San Antonio,South,Monitor,Electronics,1705.26,0.1,170.53,1534.73,1284.92,249.81
+INV1070,2024-05-01,Los Angeles,West,Laptop,Accessories,144.22,0.1,14.42,129.8,124.48,5.32
+INV1071,2025-05-23,San Antonio,South,Keyboard,Electronics,1647.49,0.15,247.12,1400.37,1032.12,368.25
+INV1072,2025-02-28,New York,East,Keyboard,Office Supplies,635.52,0.05,31.78,603.74,467.31,136.43
+INV1073,2024-12-08,San Antonio,South,Mobile,Office Supplies,324.51,0.05,16.23,308.28,250.91,57.37
+INV1074,2025-01-26,Phoenix,West,Keyboard,Electronics,1423.8,0.05,71.19,1352.61,969.29,383.32
+INV1075,2023-09-23,Chicago,Midwest,Mobile,Electronics,1294.99,0.05,64.75,1230.24,1017.23,213.01
+INV1076,2024-05-21,San Diego,West,Laptop,Office Supplies,1767.2,0.1,176.72,1590.48,1519.56,70.92
+INV1077,2023-08-23,Phoenix,West,Monitor,Office Supplies,1496.63,0.1,149.66,1346.97,1121.93,225.04
+INV1078,2025-07-18,Chicago,Midwest,Monitor,Accessories,1626.61,0.05,81.33,1545.28,1164.51,380.77
+INV1079,2024-09-11,Houston,South,Monitor,Office Supplies,635.87,0.15,95.38,540.49,429.53,110.96
+INV1080,2023-11-01,Phoenix,West,Keyboard,Accessories,437.14,0.0,0.0,437.14,319.55,117.59
+INV1081,2024-04-13,Houston,South,Laptop,Accessories,1526.17,0.0,0.0,1526.17,980.02,546.15
+INV1082,2024-09-01,Los Angeles,West,Keyboard,Accessories,1632.99,0.15,244.95,1388.04,1072.21,315.83
+INV1083,2024-07-07,Los Angeles,West,Keyboard,Accessories,1981.96,0.05,99.1,1882.86,1412.63,470.23
+INV1084,2025-04-27,New York,East,Laptop,Accessories,883.97,0.1,88.4,795.57,465.54,330.03
+INV1085,2025-01-07,San Antonio,South,Laptop,Electronics,806.83,0.0,0.0,806.83,477.33,329.5
+INV1086,2023-12-22,Phoenix,West,Laptop,Office Supplies,1575.18,0.2,315.04,1260.14,1129.62,130.52
+INV1087,2025-06-25,Houston,South,Laptop,Accessories,747.53,0.2,149.51,598.02,502.8,95.22
+INV1088,2024-12-17,Chicago,Midwest,Monitor,Office Supplies,1868.44,0.15,280.27,1588.17,1182.96,405.21
+INV1089,2025-08-03,Los Angeles,West,Tablet,Office Supplies,1730.98,0.05,86.55,1644.43,1371.32,273.11
+INV1090,2024-11-26,San Antonio,South,Tablet,Accessories,915.09,0.0,0.0,915.09,711.47,203.62
+INV1091,2025-03-23,Los Angeles,West,Laptop,Electronics,1526.66,0.05,76.33,1450.33,865.15,585.18
+INV1092,2024-03-17,Chicago,Midwest,Tablet,Accessories,1533.63,0.0,0.0,1533.63,1305.81,227.82
+INV1093,2024-08-13,San Antonio,South,Tablet,Electronics,295.94,0.15,44.39,251.55,206.62,44.93
+INV1094,2024-09-12,San Antonio,South,Laptop,Office Supplies,1814.85,0.15,272.23,1542.62,1445.68,96.94
+INV1095,2024-10-23,Houston,South,Tablet,Electronics,1059.98,0.2,212.0,847.98,773.0,74.98
+INV1096,2024-12-09,Houston,South,Keyboard,Electronics,1670.27,0.05,83.51,1586.76,1501.7,85.06
+INV1097,2025-04-13,Phoenix,West,Mobile,Electronics,708.09,0.2,141.62,566.47,567.15,-0.68
+INV1098,2024-05-06,Phoenix,West,Mobile,Office Supplies,1801.49,0.05,90.07,1711.42,1410.19,301.23
+INV1099,2025-01-14,Philadelphia,East,Laptop,Office Supplies,839.48,0.2,167.9,671.58,681.18,-9.6
+INV1100,2024-01-13,San Diego,West,Monitor,Electronics,120.59,0.1,12.06,108.53,67.2,41.33
+INV1101,2024-01-06,Philadelphia,East,Laptop,Electronics,1820.23,0.1,182.02,1638.21,1059.04,579.17
+INV1102,2025-04-18,New York,East,Monitor,Accessories,273.44,0.1,27.34,246.1,214.82,31.28
+INV1103,2024-02-11,Los Angeles,West,Mobile,Electronics,706.7,0.1,70.67,636.03,492.99,143.04
+INV1104,2023-11-13,Phoenix,West,Laptop,Accessories,1905.12,0.0,0.0,1905.12,1527.63,377.49
+INV1105,2023-12-16,Houston,South,Keyboard,Electronics,1906.15,0.1,190.62,1715.53,1031.54,683.99
+INV1106,2024-01-25,Chicago,Midwest,Tablet,Accessories,1189.53,0.15,178.43,1011.1,850.03,161.07
+INV1107,2024-02-06,Houston,South,Monitor,Office Supplies,1300.49,0.15,195.07,1105.42,847.31,258.11
+INV1108,2024-08-05,Los Angeles,West,Tablet,Electronics,952.05,0.0,0.0,952.05,650.06,301.99
+INV1109,2023-09-15,Philadelphia,East,Tablet,Electronics,657.1,0.1,65.71,591.39,487.29,104.1
+INV1110,2025-01-15,Houston,South,Laptop,Electronics,724.46,0.1,72.45,652.01,507.79,144.22
+INV1111,2024-12-16,San Diego,West,Tablet,Electronics,1377.79,0.1,137.78,1240.01,986.42,253.59
+INV1112,2025-01-04,New York,East,Keyboard,Accessories,1529.51,0.2,305.9,1223.61,1062.31,161.3
+INV1113,2024-07-21,Los Angeles,West,Tablet,Electronics,1604.0,0.05,80.2,1523.8,1064.39,459.41
+INV1114,2024-09-07,Philadelphia,East,Laptop,Office Supplies,1600.27,0.2,320.05,1280.22,1294.22,-14.0
+INV1115,2025-07-29,San Diego,West,Keyboard,Office Supplies,273.29,0.05,13.66,259.63,137.98,121.65
+INV1116,2024-01-15,Chicago,Midwest,Mobile,Electronics,1039.4,0.1,103.94,935.46,768.51,166.95
+INV1117,2023-08-23,Philadelphia,East,Tablet,Office Supplies,209.36,0.1,20.94,188.42,152.04,36.38
+INV1118,2024-12-12,San Antonio,South,Laptop,Electronics,1144.1,0.2,228.82,915.28,899.8,15.48
+INV1119,2024-10-06,San Diego,West,Mobile,Electronics,938.91,0.2,187.78,751.13,694.43,56.7
+INV1120,2023-11-23,San Diego,West,Mobile,Office Supplies,1786.64,0.05,89.33,1697.31,1484.2,213.11
+INV1121,2024-10-30,New York,East,Monitor,Electronics,766.74,0.15,115.01,651.73,677.51,-25.78
+INV1122,2024-06-13,Los Angeles,West,Keyboard,Office Supplies,322.43,0.05,16.12,306.31,205.39,100.92
+INV1123,2024-01-24,Chicago,Midwest,Tablet,Accessories,371.68,0.2,74.34,297.34,219.64,77.7
+INV1124,2025-02-03,New York,East,Laptop,Electronics,1546.87,0.2,309.37,1237.5,1035.53,201.97
+INV1125,2024-09-24,Philadelphia,East,Monitor,Accessories,1274.61,0.0,0.0,1274.61,784.1,490.51
+INV1126,2024-04-14,New York,East,Keyboard,Office Supplies,292.13,0.2,58.43,233.7,217.92,15.78
+INV1127,2023-12-26,San Diego,West,Monitor,Accessories,259.8,0.0,0.0,259.8,224.66,35.14
+INV1128,2024-05-07,Los Angeles,West,Keyboard,Accessories,1431.84,0.15,214.78,1217.06,795.6,421.46
+INV1129,2024-09-26,Phoenix,West,Keyboard,Office Supplies,238.25,0.05,11.91,226.34,128.73,97.61
+INV1130,2025-04-06,New York,East,Tablet,Accessories,1661.53,0.05,83.08,1578.45,1000.92,577.53
+INV1131,2023-09-15,San Antonio,South,Keyboard,Accessories,1441.86,0.0,0.0,1441.86,1139.7,302.16
+INV1132,2023-09-05,New York,East,Monitor,Office Supplies,254.56,0.05,12.73,241.83,187.66,54.17
+INV1133,2024-11-26,Philadelphia,East,Keyboard,Accessories,261.19,0.2,52.24,208.95,141.27,67.68
+INV1134,2024-06-20,Philadelphia,East,Tablet,Office Supplies,1974.62,0.1,197.46,1777.16,1712.98,64.18
+INV1135,2024-04-08,Chicago,Midwest,Tablet,Accessories,811.11,0.0,0.0,811.11,661.89,149.22
+INV1136,2025-07-04,Philadelphia,East,Monitor,Office Supplies,804.22,0.05,40.21,764.01,409.52,354.49
+INV1137,2024-05-05,Houston,South,Mobile,Office Supplies,1644.32,0.0,0.0,1644.32,1250.58,393.74
+INV1138,2024-10-20,Los Angeles,West,Mobile,Accessories,1899.77,0.0,0.0,1899.77,1535.96,363.81
+INV1139,2024-04-02,Los Angeles,West,Keyboard,Accessories,1973.4,0.1,197.34,1776.06,1282.26,493.8
+INV1140,2024-08-18,Phoenix,West,Laptop,Accessories,1531.42,0.2,306.28,1225.14,807.93,417.21
+INV1141,2024-04-29,Phoenix,West,Keyboard,Electronics,814.89,0.0,0.0,814.89,432.65,382.24
+INV1142,2024-07-31,Los Angeles,West,Monitor,Electronics,258.65,0.05,12.93,245.72,140.11,105.61
+INV1143,2024-07-12,San Antonio,South,Monitor,Electronics,1576.58,0.15,236.49,1340.09,1318.3,21.79
+INV1144,2024-08-30,Phoenix,West,Monitor,Office Supplies,1160.97,0.0,0.0,1160.97,1003.4,157.57
+INV1145,2025-03-06,Chicago,Midwest,Monitor,Accessories,906.02,0.0,0.0,906.02,497.52,408.5
+INV1146,2025-06-26,Philadelphia,East,Monitor,Office Supplies,1822.07,0.1,182.21,1639.86,1082.97,556.89
+INV1147,2023-08-10,Los Angeles,West,Tablet,Electronics,311.28,0.2,62.26,249.02,176.25,72.77
+INV1148,2024-10-09,San Diego,West,Mobile,Accessories,1035.99,0.15,155.4,880.59,595.21,285.38
+INV1149,2023-12-27,Phoenix,West,Monitor,Office Supplies,121.57,0.05,6.08,115.49,101.51,13.98
+INV1150,2024-08-17,Los Angeles,West,Laptop,Accessories,990.46,0.15,148.57,841.89,626.82,215.07
+INV1151,2025-06-07,Houston,South,Laptop,Office Supplies,206.98,0.05,10.35,196.63,129.28,67.35
+INV1152,2024-06-26,New York,East,Laptop,Accessories,325.75,0.2,65.15,260.6,192.5,68.1
+INV1153,2023-12-31,Philadelphia,East,Laptop,Electronics,323.3,0.05,16.17,307.13,240.26,66.87
+INV1154,2024-05-26,Los Angeles,West,Tablet,Electronics,1333.5,0.1,133.35,1200.15,869.07,331.08
+INV1155,2025-06-02,New York,East,Laptop,Accessories,1517.49,0.1,151.75,1365.74,1210.5,155.24
+INV1156,2024-10-12,Phoenix,West,Monitor,Office Supplies,1208.4,0.1,120.84,1087.56,703.57,383.99
+INV1157,2025-07-12,New York,East,Keyboard,Electronics,1928.13,0.1,192.81,1735.32,1571.65,163.67
+INV1158,2025-03-14,Philadelphia,East,Laptop,Electronics,812.25,0.15,121.84,690.41,602.27,88.14
+INV1159,2024-09-09,Los Angeles,West,Tablet,Electronics,642.85,0.2,128.57,514.28,350.81,163.47
+INV1160,2024-07-16,Houston,South,Tablet,Accessories,1750.34,0.05,87.52,1662.82,1165.38,497.44
+INV1161,2023-12-25,San Antonio,South,Laptop,Accessories,524.83,0.05,26.24,498.59,443.7,54.89
+INV1162,2024-02-10,Phoenix,West,Keyboard,Office Supplies,1930.12,0.1,193.01,1737.11,1677.63,59.48
+INV1163,2023-10-07,Los Angeles,West,Laptop,Office Supplies,123.09,0.1,12.31,110.78,84.47,26.31
+INV1164,2024-08-21,Philadelphia,East,Tablet,Office Supplies,1942.77,0.0,0.0,1942.77,1345.05,597.72
+INV1165,2025-07-17,Phoenix,West,Mobile,Accessories,182.0,0.2,36.4,145.6,157.86,-12.26
+INV1166,2024-10-20,Chicago,Midwest,Monitor,Accessories,1793.17,0.15,268.98,1524.19,1317.67,206.52
+INV1167,2024-06-21,New York,East,Tablet,Office Supplies,1102.63,0.05,55.13,1047.5,565.8,481.7
+INV1168,2024-06-04,San Antonio,South,Laptop,Office Supplies,1986.63,0.0,0.0,1986.63,1718.63,268.0
+INV1169,2024-07-16,Philadelphia,East,Monitor,Accessories,240.21,0.0,0.0,240.21,143.96,96.25
+INV1170,2023-08-18,Chicago,Midwest,Laptop,Office Supplies,1152.32,0.05,57.62,1094.7,842.41,252.29
+INV1171,2023-10-08,San Diego,West,Laptop,Electronics,1941.67,0.15,291.25,1650.42,1099.38,551.04
+INV1172,2024-03-20,Los Angeles,West,Mobile,Accessories,1093.89,0.0,0.0,1093.89,561.77,532.12
+INV1173,2024-01-07,Houston,South,Monitor,Office Supplies,1295.86,0.0,0.0,1295.86,809.38,486.48
+INV1174,2025-07-18,Phoenix,West,Monitor,Accessories,1421.92,0.2,284.38,1137.54,1154.88,-17.34
+INV1175,2025-02-21,New York,East,Mobile,Electronics,963.63,0.15,144.54,819.09,588.81,230.28
+INV1176,2025-02-28,Phoenix,West,Tablet,Accessories,1292.36,0.0,0.0,1292.36,759.96,532.4
+INV1177,2025-03-13,San Antonio,South,Laptop,Accessories,1210.2,0.15,181.53,1028.67,708.05,320.62
+INV1178,2025-05-28,Los Angeles,West,Keyboard,Accessories,1812.2,0.05,90.61,1721.59,1279.54,442.05
+INV1179,2025-03-04,Phoenix,West,Laptop,Accessories,186.35,0.1,18.64,167.71,165.89,1.82
+INV1180,2024-06-12,New York,East,Laptop,Electronics,633.83,0.0,0.0,633.83,433.28,200.55
+INV1181,2024-04-06,Los Angeles,West,Tablet,Accessories,1905.78,0.2,381.16,1524.62,1377.73,146.89
+INV1182,2024-12-12,Phoenix,West,Laptop,Accessories,1791.5,0.05,89.58,1701.92,1512.48,189.44
+INV1183,2024-08-07,Houston,South,Mobile,Office Supplies,965.75,0.15,144.86,820.89,689.57,131.32
+INV1184,2024-07-02,Philadelphia,East,Mobile,Accessories,1278.25,0.05,63.91,1214.34,733.44,480.9
+INV1185,2023-11-22,Los Angeles,West,Monitor,Office Supplies,627.02,0.0,0.0,627.02,388.65,238.37
+INV1186,2024-03-20,Philadelphia,East,Keyboard,Electronics,457.43,0.15,68.61,388.82,285.42,103.4
+INV1187,2024-03-12,San Diego,West,Laptop,Electronics,981.03,0.1,98.1,882.93,646.43,236.5
+INV1188,2024-12-25,Los Angeles,West,Laptop,Electronics,771.37,0.05,38.57,732.8,517.37,215.43
+INV1189,2024-04-22,Houston,South,Tablet,Electronics,1208.95,0.0,0.0,1208.95,991.23,217.72
+INV1190,2025-01-05,Philadelphia,East,Mobile,Office Supplies,247.7,0.2,49.54,198.16,158.47,39.69
+INV1191,2023-09-30,Chicago,Midwest,Keyboard,Accessories,1951.35,0.15,292.7,1658.65,1341.15,317.5
+INV1192,2023-09-23,New York,East,Monitor,Electronics,1973.8,0.05,98.69,1875.11,1480.33,394.78
+INV1193,2025-08-03,Chicago,Midwest,Mobile,Accessories,1426.51,0.05,71.33,1355.18,928.79,426.39
+INV1194,2025-06-26,Phoenix,West,Monitor,Office Supplies,1118.58,0.1,111.86,1006.72,933.6,73.12
+INV1195,2025-01-09,Houston,South,Tablet,Office Supplies,688.1,0.1,68.81,619.29,505.74,113.55
+INV1196,2023-11-14,Chicago,Midwest,Tablet,Office Supplies,1646.21,0.2,329.24,1316.97,1016.73,300.24
+INV1197,2023-08-27,Los Angeles,West,Laptop,Electronics,1400.99,0.2,280.2,1120.79,1100.65,20.14
+INV1198,2025-03-02,Phoenix,West,Keyboard,Accessories,408.97,0.0,0.0,408.97,290.8,118.17
+INV1199,2024-12-09,Phoenix,West,Monitor,Accessories,1830.76,0.0,0.0,1830.76,1306.76,524.0
